@@ -20,7 +20,7 @@ public class SnakeandLadder {
 
 	class SnakeNLadder
 	{
-		
+		          
 		final static int WINPOINT = 100;  
 		
 		
@@ -92,8 +92,6 @@ public class SnakeandLadder {
 				}
 				
 				currentPlayer= -currentPlayer;
-				
-				
 				
 			}while("r".equals(str));
 		}
