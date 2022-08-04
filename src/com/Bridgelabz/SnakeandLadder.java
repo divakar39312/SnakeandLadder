@@ -21,7 +21,7 @@ public class SnakeandLadder {
 	class SnakeNLadder
 	{
 		
-		final static int WINPOINT = 100;
+		final static int WINPOINT = 100;  
 		
 		
 		static Map<Integer,Integer> snake = new HashMap<Integer,Integer>();
